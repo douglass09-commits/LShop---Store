@@ -1,0 +1,17 @@
+LShop — versión actualizada
+
+Archivos:
+1. index.html — nueva interfaz premium responsive, header compacto, logo oficial, favicon y carrito rediseñado.
+2. app.js — base original de productos y funcionalidades (carrito, tallas, colores, galería, búsqueda, categorías y WhatsApp).
+3. lshop-logo-header.png — logo oficial enviado por la propietaria para el header.
+4. favicon-lshop.png — versión del monograma para favicon y uso móvil.
+
+IMPORTANTE:
+- Conserva las carpetas originales "imagenes" e "img" de tu página.
+- Copia los cuatro archivos en la misma carpeta donde actualmente tienes index.html y app.js.
+- No cambies los nombres de las carpetas de imágenes.
+- Si Windows pregunta si deseas reemplazar index.html o app.js, acepta.
+- Abre index.html en Chrome para probarlo localmente.
+- Después vuelve a Netlify y arrastra la carpeta del proyecto para publicar.
+
+El catálogo y la base de productos se conservan; el cambio principal está en la interfaz visual y en la presentación responsive.
